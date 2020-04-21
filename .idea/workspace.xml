@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad8fd856-b668-45d0-b7c6-f0b753f8ae21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ahuOKF14u7j7UyPO3dFgFCugSM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad8fd856-b668-45d0-b7c6-f0b753f8ae21" name="Default Changelist" comment="" />
+      <created>1587200113772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587200113772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587272938425">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="470" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/65.24.1301.744@65.24.1301.744" timestamp="1587272938425" />
+    <state x="175" y="144" width="1081" height="504" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1587273077285">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="175" y="144" width="1081" height="504" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.1301.744@65.24.1301.744" timestamp="1587273077285" />
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587353893715">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1587353893715" />
+    <state x="65" y="24" width="704" height="744" key="find.popup" timestamp="1587201212767">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="65" y="24" width="704" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1587201212767" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587288085425">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1587288085425" />
+    <state x="445" y="311" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1587269279230">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="445" y="311" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/65.24.1301.744@65.24.1301.744" timestamp="1587269279230" />
+  </component>
+</project>
