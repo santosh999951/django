@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad8fd856-b668-45d0-b7c6-f0b753f8ae21" name="Default Changelist" comment="" />
+    <list default="true" id="ad8fd856-b668-45d0-b7c6-f0b753f8ae21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangotest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangotest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangotest/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ahuOKF14u7j7UyPO3dFgFCugSM" />
   <component name="ProjectViewState">
@@ -15,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
   </component>
@@ -32,6 +47,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587813860233">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="180" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1301.744@65.24.1301.744" timestamp="1587813860233" />
+    <state x="416" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587810488582">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="416" y="188" key="#com.intellij.fileTypes.FileTypeChooser/65.24.1301.744@65.24.1301.744" timestamp="1587810488582" />
     <state x="470" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587272938425">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
@@ -40,14 +63,14 @@
       <screen x="65" y="24" width="1301" height="744" />
     </state>
     <state x="175" y="144" width="1081" height="504" key="com.intellij.history.integration.ui.views.FileHistoryDialog/65.24.1301.744@65.24.1301.744" timestamp="1587273077285" />
-    <state x="376" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587353893715">
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1587873878831">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="376" y="224" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1587353893715" />
-    <state x="65" y="24" width="704" height="744" key="find.popup" timestamp="1587201212767">
+    <state x="376" y="224" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1587873878831" />
+    <state x="65" y="24" width="863" height="744" key="find.popup" timestamp="1587831190678">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
-    <state x="65" y="24" width="704" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1587201212767" />
+    <state x="65" y="24" width="863" height="744" key="find.popup/65.24.1301.744@65.24.1301.744" timestamp="1587831190678" />
     <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587288085425">
       <screen x="65" y="24" width="1301" height="744" />
     </state>
